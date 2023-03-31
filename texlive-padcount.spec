@@ -1,6 +1,6 @@
 Name:		texlive-padcount
 Version:	47621
-Release:	1
+Release:	2
 Summary:	Pad numbers with arbitrary characters
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/padcount
